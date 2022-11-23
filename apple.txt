@@ -4,6 +4,7 @@ swdownload.apple.com
 swquery.apple.com
 swscan.apple.com
 *.courier-push-apple.com.akadns.net
+*.akamaiedge.net
 *.g.aaplimg.com
 
 
